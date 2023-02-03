@@ -1,0 +1,49 @@
+.sign-container{
+    background-color: rgb(255, 123, 0);
+    width: 100vw;
+    height: 100vh;
+}
+.signUp-container{
+    background-color: rgb(61, 216, 164);
+
+}
+.main-boxing{
+    width: 450px;
+    height: 400px;
+    background: #ffffff;
+    border: 1px solid #dee1e6;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 50px;
+    position: absolute;
+    box-shadow: 15px 15px 15px 15px black;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+h1{
+    color: gray;
+}
+.signin-logo{
+    color:gray
+}
+
+.input-boxing{
+    width: 350px;
+    height: 40px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 10px 10%;
+    border: 1px solid #E2E2E2;
+   font-size: large;
+}
+.btn{
+    width: 350px;
+    height: 40px;
+    border-radius: 10px;
+    margin: 10px 10%;
+    color: white;
+    font-size: large;
+    border: 1px solid rgb(18, 177, 239);
+    background-color: rgb(18, 177, 239);
+}
